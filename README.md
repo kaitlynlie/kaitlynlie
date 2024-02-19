@@ -10,3 +10,5 @@ Go            13 mins         ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@018d58bc-3d22-46c9-b2d7-4ed36fb8172d/243b5d9b-77cd-4133-89ff-dcc8f225fa18.svg"></embed></figure>
