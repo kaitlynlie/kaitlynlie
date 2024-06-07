@@ -2,17 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 06 June 2024
+From: 29 January 2024 - To: 07 June 2024
 
-Total Time: 689 hrs 58 mins
+Total Time: 695 hrs 31 mins
 
-TypeScript        485 hrs 11 mins █████████████████▒░░░░░░░   69.60 %
-C++               77 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Python            49 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Go                35 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-JavaScript        12 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-SCSS              9 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Other             7 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TypeScript        485 hrs 11 mins █████████████████▒░░░░░░░   69.05 %
+C++               78 hrs 19 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Python            53 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Go                35 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JavaScript        12 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+SCSS              9 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other             7 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Common Lisp       4 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Markdown          2 hrs 30 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Prolog            2 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
