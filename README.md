@@ -1,4 +1,4 @@
-# Hi, I'm Kaitlyn 👋
+### Hi, I'm Kaitlyn 👋
 <!--START_SECTION:waka-->
 
 ```txt
