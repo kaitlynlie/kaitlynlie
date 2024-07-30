@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 29 July 2024
+From: 29 January 2024 - To: 30 July 2024
 
-Total Time: 766 hrs 54 mins
+Total Time: 767 hrs 51 mins
 
-TypeScript          493 hrs 41 mins ████████████████░░░░░░░░░   63.72 %
-C++                 89 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Python              72 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+TypeScript          493 hrs 41 mins ████████████████░░░░░░░░░   63.65 %
+C++                 89 hrs 58 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Python              72 hrs 46 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
 Go                  35 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 JavaScript          15 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 SCSS                15 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
