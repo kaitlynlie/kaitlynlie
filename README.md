@@ -2,19 +2,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 13 July 2025
+From: 29 January 2024 - To: 14 July 2025
 
-Total Time: 844 hrs 24 mins
+Total Time: 845 hrs 46 mins
 
-TypeScript          510 hrs 58 mins ██████████████░░░░░░░░░░░   56.04 %
-C++                 90 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Python              78 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-SCSS                45 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Go                  35 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JavaScript          16 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Java                9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Figma Design        9 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-HTML                5 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript          510 hrs 58 mins eeeeeeeeeeeeeettttttttttt   55.95 %
+C++                 90 hrs 8 mins   eertttttttttttttttttttttt   09.87 %
+Python              78 hrs 45 mins  eettttttttttttttttttttttt   08.62 %
+SCSS                45 hrs 9 mins   erttttttttttttttttttttttt   04.94 %
+Go                  35 hrs 48 mins  etttttttttttttttttttttttt   03.92 %
+JavaScript          16 hrs 43 mins  rtttttttttttttttttttttttt   01.83 %
+Java                9 hrs 36 mins   rtttttttttttttttttttttttt   01.05 %
+Figma Design        9 hrs 16 mins   rtttttttttttttttttttttttt   01.02 %
+HTML                5 hrs 4 mins    ttttttttttttttttttttttttt   00.56 %
 ```
 
 <!--END_SECTION:waka-->
