@@ -10,13 +10,13 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.0
+      - uses: athul/waka-readme@92e47cbe79db13e8ad0a60fd4055a1796b450cdf
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 10
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-          BLOCKS: true
+          LANG_COUNT: "10"
+          TIME_RANGE: "all_time"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_TITLE: "true"
+          BLOCKS: "true"
           IGNORED_LANGUAGES: "YAML, JSON, TOML, markdown, Figma Design, Other"
