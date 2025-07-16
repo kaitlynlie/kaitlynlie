@@ -2,19 +2,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 14 July 2025
+From: 16 July 2024 - To: 16 July 2025
 
-Total Time: 845 hrs 46 mins
+Total Time: 94 hrs 18 mins
 
-TypeScript          510 hrs 58 mins ██████████████░░░░░░░░░░░   55.95 %
-C++                 90 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Python              78 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other               67 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-SCSS                45 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Go                  35 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-JavaScript          16 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Java                9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-HTML                5 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other               59 hrs 38 mins  █████████▓░░░░░░░░░░░░░░░   38.74 %
+SCSS                30 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+TypeScript          17 hrs 24 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Python              7 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Java                6 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+JavaScript          3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+HTML                3 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Ruby                2 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+MDX                 2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
