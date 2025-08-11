@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 03 August 2025
+From: 10 August 2024 - To: 10 August 2025
 
-Total Time: 89 hrs 47 mins
+Total Time: 89 hrs 46 mins
 
-Other             62 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   40.97 %
+Other             62 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   40.98 %
 SCSS              31 hrs 15 mins  █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 TypeScript        17 hrs 32 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
 Liquid            6 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
