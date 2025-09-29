@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 21 September 2025
+From: 28 September 2024 - To: 28 September 2025
 
-Total Time: 73 hrs 59 mins
+Total Time: 72 hrs 53 mins
 
-Other          66 hrs 27 mins  ███████████▓░░░░░░░░░░░░░   47.32 %
+Other          67 hrs 33 mins  ████████████░░░░░░░░░░░░░   48.10 %
 SCSS           20 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-TypeScript     11 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Python         9 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+TypeScript     10 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Python         9 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 Liquid         6 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 JavaScript     3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 Ruby           2 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
