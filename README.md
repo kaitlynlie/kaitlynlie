@@ -2,19 +2,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 16 November 2025
+From: 23 November 2024 - To: 23 November 2025
 
-Total Time: 99 hrs 23 mins
+Total Time: 96 hrs 55 mins
 
-Other          69 hrs 17 mins  ██████████▒░░░░░░░░░░░░░░   41.08 %
-SCSS           35 hrs 37 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-TypeScript     22 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Python         8 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Liquid         6 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-JavaScript     3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Ruby           2 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-MDX            2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-CSS            1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other          68 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   41.57 %
+SCSS           35 hrs 37 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+TypeScript     22 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Python         8 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Liquid         6 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JavaScript     3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Ruby           2 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+MDX            2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+CSS            1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
