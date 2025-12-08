@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 30 November 2025
+From: 07 December 2024 - To: 07 December 2025
 
-Total Time: 96 hrs 55 mins
+Total Time: 97 hrs 6 mins
 
-Other          67 hrs 40 mins  ██████████▒░░░░░░░░░░░░░░   41.11 %
+Other          67 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   41.00 %
 SCSS           35 hrs 37 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
 TypeScript     22 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
 Python         8 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
