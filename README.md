@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 25 January 2026
+From: 01 February 2025 - To: 01 February 2026
 
 Total Time: 96 hrs 2 mins
 
-Other          63 hrs 27 mins  ██████████░░░░░░░░░░░░░░░   39.79 %
-SCSS           36 hrs 29 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Other          63 hrs 20 mins  ██████████░░░░░░░░░░░░░░░   39.75 %
+SCSS           36 hrs 29 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
 TypeScript     20 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
 Python         8 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Liquid         6 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Liquid         6 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 JavaScript     3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 Ruby           2 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 MDX            2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
