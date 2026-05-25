@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 17 May 2026
+From: 24 May 2025 - To: 24 May 2026
 
-Total Time: 165 hrs 25 mins
+Total Time: 181 hrs 59 mins
 
-SCSS           47 hrs 13 mins        >>>>>>-------------------   22.21 %
-Other          47 hrs 11 mins        >>>>>>-------------------   22.20 %
-TypeScript     36 hrs 9 mins         >>>>---------------------   17.01 %
-JavaScript     7 hrs 14 mins         >------------------------   03.40 %
-Liquid         6 hrs 51 mins         >------------------------   03.23 %
-Python         4 hrs 32 mins         >------------------------   02.14 %
-CSS            3 hrs 26 mins         -------------------------   01.62 %
-HTML           3 hrs 6 mins          -------------------------   01.46 %
+SCSS           47 hrs 16 mins        >>>>>--------------------   21.31 %
+Other          39 hrs 53 mins        >>>>---------------------   17.98 %
+TypeScript     36 hrs 33 mins        >>>>---------------------   16.47 %
+JavaScript     10 hrs 1 min          >------------------------   04.52 %
+Liquid         6 hrs 51 mins         >------------------------   03.09 %
+Python         4 hrs 32 mins         >------------------------   02.05 %
+CSS            4 hrs 8 mins          -------------------------   01.87 %
+HTML           3 hrs 40 mins         -------------------------   01.65 %
 ```
 
 <!--END_SECTION:waka-->
