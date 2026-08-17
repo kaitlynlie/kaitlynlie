@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 09 August 2026
+From: 16 August 2025 - To: 16 August 2026
 
-Total Time: 206 hrs 49 mins
+Total Time: 206 hrs 48 mins
 
-SCSS          31 hrs 10 mins        >>>----------------------   13.72 %
-TypeScript    30 hrs 59 mins        >>>----------------------   13.64 %
+SCSS          31 hrs 10 mins        >>>----------------------   13.73 %
+TypeScript    30 hrs 56 mins        >>>----------------------   13.63 %
 JavaScript    27 hrs 42 mins        >>>----------------------   12.20 %
 Other         20 hrs 17 mins        >>-----------------------   08.93 %
 CSS           11 hrs 23 mins        >------------------------   05.02 %
