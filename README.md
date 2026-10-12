@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 04 October 2026
+From: 11 October 2025 - To: 11 October 2026
 
-Total Time: 242 hrs 10 mins
+Total Time: 239 hrs 46 mins
 
-TypeScript    29 hrs 2 mins         >>>----------------------   11.23 %
-SCSS          28 hrs 20 mins        >>>----------------------   10.96 %
-JavaScript    27 hrs 45 mins        >>>----------------------   10.74 %
-Other         16 hrs 17 mins        >>-----------------------   06.30 %
-Astro         11 hrs 15 mins        >------------------------   04.36 %
-CSS           11 hrs 13 mins        >------------------------   04.34 %
-HTML          4 hrs 30 mins         -------------------------   01.75 %
-Python        49 mins               -------------------------   00.32 %
+JavaScript    27 hrs 46 mins        >>>----------------------   10.85 %
+TypeScript    26 hrs 3 mins         >>>----------------------   10.18 %
+SCSS          25 hrs 48 mins        >>>----------------------   10.08 %
+Other         16 hrs 14 mins        >>-----------------------   06.35 %
+Astro         11 hrs 15 mins        >------------------------   04.40 %
+CSS           11 hrs 13 mins        >------------------------   04.38 %
+HTML          4 hrs 30 mins         -------------------------   01.76 %
+Python        46 mins               -------------------------   00.30 %
 Bash          30 mins               -------------------------   00.20 %
 ```
 
